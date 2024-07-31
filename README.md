@@ -1,4 +1,4 @@
-## Penetration Tester
+## Mathematician specializing in offensive security and penetration testing
 
 <!--
 **Gobakos/Gobakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
