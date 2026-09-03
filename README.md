@@ -1,6 +1,6 @@
 ## 👨‍💻 Offensive Security Consultant & Researcher
 
-Mathematician turned Offensive Security Consultant specializing in Web & API, Active Directory, and low-level concepts (OS, protocols, networking). I focus heavily on manual exploitation, complex vulnerability research, and continuous R&D across multiple security domains.
+Offensive Security Consultant specializing in Web & API, Active Directory, and low-level concepts (OS, protocols, networking). I focus heavily on manual exploitation, complex vulnerability research, and continuous R&D across multiple security domains.
 
 ⚡ **Current R&D & Studies:** Diving deep into software security, memory internals (Buffer Overflows, ASLR/DEP bypasses, memory attacks), and Windows internals. Actively researching malware development concepts and low-level vulnerabilities.
 
