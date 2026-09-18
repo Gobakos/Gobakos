@@ -8,8 +8,6 @@ Offensive Security Consultant specializing in Web & API, Active Directory, and l
 
 🎓 **Education:** MSc in Information Systems (Security & Development)
 
-🎯 **CTF & Labs:** Active on HackTheBox (Pro Hacker) & Custom AD Purple Team Labs.
-
 ---
 
 ### 🛠️ Tech Stack & Arsenal
